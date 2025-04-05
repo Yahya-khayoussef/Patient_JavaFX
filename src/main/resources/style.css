@@ -1,0 +1,15 @@
+.header {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.text-field, .button {
+    -fx-font-size: 14px;
+}
+
+.list-view {
+    -fx-border-color: #ccc;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+}
